@@ -2,4 +2,4 @@ PORT=5000
 MONGODB_URI=mongodb+srv://atish2112003_db_user:atishMayuri2810@cluster0.9sslyi0.mongodb.net/labour_verification
 NODE_ENV=development
 FRONTEND_BASE_URL=http://localhost:3000
-JWT_SECRET=your-secret-key-change-in-production
+JWT_SECRET=8d625dff52d798f93c3927e8e12c74d120dbee105a8085be09f103a4ae437ec95372b2c2b1c0b0ea23cdf515e4a0094431fafd94023a29cd7192174ef8926291
